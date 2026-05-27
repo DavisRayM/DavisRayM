@@ -11,7 +11,7 @@ Stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/ti
 
 ## Recent Projects
 
-1. [TPM 2.0 Fuzzing](https://github.com/SeattleU-MSCS-26-03-2026/TPM-Fuzzer) (![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black))
+1. [TPM 2.0 Fuzzer](https://github.com/SeattleU-MSCS-26-03-2026/TPM-Fuzzer) (![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black))
     - A customizable fuzzing framework for Trusted Platform Module implementations.
 
 2. [Cryo](https://github.com/DavisRayM/cryo) (![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white))
@@ -26,7 +26,6 @@ Stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/ti
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=flat&logo=rust&logoColor=white)
@@ -35,5 +34,3 @@ Stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/ti
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat&logo=packer&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
